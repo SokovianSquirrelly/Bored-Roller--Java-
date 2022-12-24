@@ -37,7 +37,7 @@ public class Main {
         while (!quit)
         {
             Random rand = new Random();
-            int upperbound = 4;
+            int upperbound = 5;
 
             int random_int = rand.nextInt(upperbound);
 
@@ -66,6 +66,10 @@ public class Main {
                     int rand_game = rand.nextInt(game_list.size());
                     System.out.print(game_list.get(rand_game));
                     System.out.print(".\n");
+                    break;
+
+                case 4:     // The Book Case...no pun intended
+                    System.out.println("Read a book you nerd!");
                     break;
             }
 
