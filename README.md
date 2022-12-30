@@ -10,6 +10,7 @@ Here are a few of the things that this program encourages me to do:
 * Play a video game*
 * Read a book (specifically I'm reading Star Wars High Republic: Light of the Jedi)
 * Add music to my playlist
+* Do some programming
 
 The things marked by an asterisk (*) have their own separate files that have a list of shows to watch, games to play, or tasks to complete.  These are all decided with random number generators throughout my main function.  This is still a work in progress and will continue to recieve updates, either in the functionality of this program or just the content of the txt files that I have.
 
